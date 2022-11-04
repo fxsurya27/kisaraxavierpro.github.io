@@ -1,4 +1,0 @@
-Username : epiz_32464271
-Password : BROykPGTn9
-Hostname : ftpupload.net
-Ftp port : 21
